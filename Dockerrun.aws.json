@@ -24,7 +24,7 @@
         },
         {
             "name": "nginx",
-            "image": "irepan/nginx",
+            "image": "irepan/multi-nginx",
             "hostname": "nginx",
             "essential": true,
             "portMappings": [
